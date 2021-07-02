@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sub2Nex
+- 👀 I’m interested in learning HTML
+- 🌱 I’m currently learning JavaScript
